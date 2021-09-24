@@ -247,8 +247,16 @@ img {
       align-content: center;
       text-align: center;
       margin: 4% auto 0 auto;
+      transition: width .4s;
 }
 
+
+
+
+  
+  .icons:hover {
+    width: 44%;
+  }
   /* ============================={ End of Index Page }================================ */
   
   
